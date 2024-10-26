@@ -1,0 +1,2 @@
+# BiG-sim
+Backgammon simulator
